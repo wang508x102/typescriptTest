@@ -1,0 +1,32 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript test",
+  "main": "index.js",
+  "scripts": {
+    "test": "typescript 测试"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wang508x102/typescriptTest.git"
+  },
+  "keywords": [
+    "typescript",
+    "test",
+    "demo"
+  ],
+  "author": "leila.wang@qunar.com, wang508x102@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wang508x102/typescriptTest/issues"
+  },
+  "homepage": "https://github.com/wang508x102/typescriptTest#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "source-map-loader": "^0.2.3",
+    "ts-loader": "^4.0.1"
+  }
+}
